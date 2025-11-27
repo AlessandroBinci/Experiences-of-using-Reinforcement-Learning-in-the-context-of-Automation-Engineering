@@ -4,6 +4,7 @@ Bachelor Thesis - Reinforcement Learning in the context of Automation Engineerin
 **Bachelor Thesis Project** - Bachelor's Degree in Computer and Automation Engineering  
 **University:** Università Politecnica delle Marche  
 **Author:** Alessandro Binci  
+**Language:** Italian
 **Supervisor:** Prof. Domenico Ursino  
 **Year:** 2022-2023
 
